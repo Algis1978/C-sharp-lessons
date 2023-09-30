@@ -1,4 +1,4 @@
-﻿
+
 //__1st EXERCISE
 int validInteger = 0;
 bool falseValue = true;
